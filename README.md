@@ -13,6 +13,10 @@ By just putting in a few hours a week, this is what i got.
 2) New projects, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
 3) And a certificate in machine learning.
 
-![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ.jpeg)
 
-[![Certificate][https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ.jpeg]][https://coursera.org/share/3bd769e186f39c71a9154b0b0e2042f8]
+
+
+[![Certificate][1]][2]
+
+[1]: https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ/CERTIFICATE_LANDING_PAGE~WFRB5L4F7QLQ.jpeg
+[2]: https://coursera.org/share/3bd769e186f39c71a9154b0b0e2042f8
